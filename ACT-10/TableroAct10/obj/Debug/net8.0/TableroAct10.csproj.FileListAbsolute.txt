@@ -1,0 +1,15 @@
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.AssemblyInfoInputs.cache
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.AssemblyInfo.cs
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.csproj.CoreCompileInputs.cache
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.sourcelink.json
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\bin\Debug\net8.0\TableroAct10.exe
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\bin\Debug\net8.0\TableroAct10.deps.json
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\bin\Debug\net8.0\TableroAct10.runtimeconfig.json
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\bin\Debug\net8.0\TableroAct10.dll
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\bin\Debug\net8.0\TableroAct10.pdb
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.dll
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\refint\TableroAct10.dll
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.pdb
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\TableroAct10.genruntimeconfig.cache
+C:\Users\hardu\source\repos\ACT-10\TableroAct10\obj\Debug\net8.0\ref\TableroAct10.dll
